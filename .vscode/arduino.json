@@ -1,0 +1,6 @@
+{
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=none,PartitionScheme=default",
+    "board": "esp32:esp32:featheresp32",
+    "port": "/dev/tty.usbserial-01E01DE0",
+    "sketch": "HuzzahSketch.ino"
+}
