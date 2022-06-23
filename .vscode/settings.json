@@ -19,5 +19,6 @@
     "titleBar.inactiveBackground": "#0f316e99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#0f316e"
+  "peacock.color": "#0f316e",
+  "editor.formatOnSave": true
 }
