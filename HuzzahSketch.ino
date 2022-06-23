@@ -27,7 +27,7 @@ void setup()
 
   // serial implementation (no note-arduino library required)
   // txRxPinsSerial.begin(9600);
-  // notecard.begin();
+  // notecard.begin(txRxPinsSerial);
   // txRxPinsSerial.println("\n");
 
   // txRxPinsSerial.println("{\"req\":\"hub.set\",\"product\":\"" NOTE_PRODUCT_UID "\",\"mode\":\"continuous\"}");
